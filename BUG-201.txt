@@ -1,0 +1,1 @@
+Reproduccion: al cancelar un pedido no se restituye el stock 
