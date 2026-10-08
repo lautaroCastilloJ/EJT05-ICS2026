@@ -1,0 +1,1 @@
+Pago aprobado solo ante respuesta aprobada
